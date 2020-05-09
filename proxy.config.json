@@ -1,0 +1,14 @@
+{
+    "/api": {
+        "target": "https://localhost:<<Port_1>>",
+        "secure": false
+    },
+    "/api1": {
+        "target": "https://localhost:<<Port_2>>",
+        "secure": false
+    },
+    "/api2": {
+        "target": "https://localhost:<<Port_3>>",
+        "secure": false
+    }
+}
